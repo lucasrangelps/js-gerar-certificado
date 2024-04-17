@@ -1,0 +1,28 @@
+img {
+    width: 1128px;
+    height: 790px;
+}
+
+#content {
+    
+    
+    position: relative;
+}
+
+#text {
+    position: absolute;
+    top: 240px;
+    left: 510px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 62px;
+}
+
+
+p {
+    font-size: 16px;
+    text-align: center;
+    
+}
